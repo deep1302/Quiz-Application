@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#quiz {
+    width: 600px;
+    margin: 0 auto;
+}
+#timer, #score, #question-number, #question, #options {
+    margin-bottom: 20px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
